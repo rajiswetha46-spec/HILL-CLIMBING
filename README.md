@@ -117,6 +117,8 @@ SimpleHillClimbing()
 ```
 
 ## Output:
+<img width="328" height="528" alt="Screenshot 2026-10-28 105530" src="https://github.com/user-attachments/assets/43950aec-79b6-456e-8cfd-7a016966772b" />
+
 <img width="271" height="497" alt="Screenshot 2026-10-26 085840" src="https://github.com/user-attachments/assets/1202a1ec-c78e-4ffd-9509-2bb92698847c" />
 
 ## Result:
